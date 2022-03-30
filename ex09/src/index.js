@@ -1,6 +1,6 @@
 function main(numOne, numTwo) {
   //Only change code belowe this line
-  // Sum of two numbers
+  // Difference of two numbers
   difference = numOne - numTwo;
   //Only change code above this line
   return difference;
